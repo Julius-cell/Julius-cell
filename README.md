@@ -1,3 +1,5 @@
+api/pin?username=anuraghazra&repo=github-readme-stats
+
 </a><a href="https://www.linkedin.com/in/julio-cid-beroiza" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/julio.cid.b" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 ## Hi 👋 I am Julio! 
@@ -12,10 +14,11 @@ I am a developer who is passionate about stuff like deep learning and data scien
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
-<p align = "center">
+<!-- <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=julius-cell&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=julius-cell&hide=css,java,html&theme=tokyonight">
-</p>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julius-cell&langs_count=4)](https://github.com/julius-cell/github-readme-stats)
+</p> -->
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=julius-cell&show_icons=true&theme=tokyonight)
+
 
 </details>

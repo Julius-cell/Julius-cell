@@ -1,16 +1,21 @@
-### Hi there 👋
+<a href="https://twitter.com/Pratikpkb" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/pratik-kumar04" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/pratikkumar04" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
-<!--
-**Julius-cell/Julius-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋 I am Julio! 
+I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in are Javascript, NodeJS, CSS, MongoDB and ReacJS. I am actively looking for opportunities in Web Development.
+- 👨🏽‍💻 Currently working, learning and growing my skillset in MongoDB, ReactJS and Good Practices.
+<!-- 🤝 Open for collaborations in deep learning, analytics and data science. -->
+- 👨 Know more about me at [Linkedin](https://www.linkedin.com/in/julio-cid-beroiza/) 
+<!-- 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact. -->
+<!-- 👋 My personal [blog site](https://pr2tik1.github.io/blog/) -->
 
-Here are some ideas to get you started:
+---
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=julius-cell)](https://github.com/julius-cell/github-readme-stats)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=julius-cell&show_icons=true&theme=tokyonight)
+  <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide=css,java,html&theme=radical"> -->
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>

@@ -2,9 +2,9 @@
 </a><a href="https://www.linkedin.com/in/julio-cid-beroiza" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/julio.cid.b" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 ## Hi 👋 I am Julio! 
-I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working with are Javascript, NodeJS, CSS, MongoDB and AngularJS. I am actively looking for opportunities in Web Development.
+I am a developer who is passionate about use my knowledge in real world cases, new technological advances and economy stuffs. Few tech that I enjoy working with are Javascript, NodeJS, CSS, MongoDB and AngularJS. My mantra is "Never stop learning".
 - 👨🏽‍💻 Currently working, learning and growing my skillset in MongoDB, Angular and Good Practices.
-<!-- 🤝 Open for collaborations in deep learning, analytics and data science. -->
+- 📚 Always reading something.
 - 👨 Know more about me at [Linkedin](https://www.linkedin.com/in/julio-cid-beroiza/) 
 <!-- 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact. -->
 <!-- 👋 My personal [blog site](https://pr2tik1.github.io/blog/) -->

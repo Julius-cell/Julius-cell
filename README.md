@@ -1,10 +1,9 @@
-<center>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fuzzy+Bubbles&size=24&duration=3000&pause=1000&color=004687&center=true&width=435&lines=Say+Hello+to+my+litle+friend!)](https://git.io/typing-svg)
-</center>
 
 <h1 align='center'>
  Hi 👋 I am Julio!
 </h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fuzzy+Bubbles&size=24&duration=3000&pause=1000&color=004687&center=true&width=435&lines=Say+Hello+to+my+litle+friend!)](https://git.io/typing-svg)
 
 I am a developer who is passionate about use my knowledge in real world cases, new technological advances and economy stuffs. Few tech that I enjoy working with are Javascript, NodeJS, CSS, MongoDB and Angular. My mantra is "Never stop learning".
 - 👨🏽‍💻 Currently working.

@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fuzzy+Bubbles&size=24&duration=3000&pause=1000&color=004687&center=true&width=435&lines=Say+Hello+to+my+litle+friend!)](https://git.io/typing-svg)
+<center>
+ ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fuzzy+Bubbles&size=24&duration=3000&pause=1000&color=004687&center=true&width=435&lines=Say+Hello+to+my+litle+friend!)
+</center>
+
 <h1 align='center'>
  Hi 👋 I am Julio!
 </h1>

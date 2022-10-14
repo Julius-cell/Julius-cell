@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fuzzy+Bubbles&size=24&duration=3000&pause=1000&color=004687&center=true&vCenter=true&width=435&lines=Say+Hello+to+my+litle+friend!)](https://git.io/typing-svg)
 <h1 align='center'>
  Hi 👋 I am Julio!
 </h1>
@@ -21,7 +21,7 @@ I am a developer who is passionate about use my knowledge in real world cases, n
 
 ---
 
-<details>
+<details open>
  <summary> 👨🏽‍💻 <b>My Stack</b>: </summary>
  <div align='center' padding='0 30px'><br>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />

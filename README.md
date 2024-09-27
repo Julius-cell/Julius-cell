@@ -10,17 +10,6 @@ I am a developer who is passionate about use my knowledge in real world cases, n
 - 📚 Always reading something.
 - 👨 Know more about me at:
 
-<p align='center'>
-  
-  <a href="https://www.linkedin.com/in/julio-cid-beroiza/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/the.web.guy/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
-</p>
-
 ---
 
 <details open>
